@@ -1,3 +1,8 @@
+#def position_taken?(board, location)
+#  board[location] != " " && board[location] != ""
+#end
+
+
 # Tic Tac Toe in Ruby
 
 ## Overview
